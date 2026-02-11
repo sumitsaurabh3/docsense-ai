@@ -6,6 +6,8 @@ It combines dense vector search (FAISS) and sparse keyword search (TF-IDF) with 
 
 ---
 
+<img width="1905" height="881" alt="{F95F49C8-DC76-405E-8ECE-8D7DE48C8A2C}" src="https://github.com/user-attachments/assets/a473cd5d-a101-4a46-b8ac-d9b6ab15b873" />
+
 ##  Features
 
 - PDF Upload & Dynamic Indexing
